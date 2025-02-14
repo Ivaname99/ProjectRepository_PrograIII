@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\membr\\Documents\\Programacion_III\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\notasproyecto\\reactbackend\\repository\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\repository\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +53,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\.gitignore",
+              "RelativeDocumentMoniker": "..\\..\\.gitignore",
+              "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\.gitignore",
+              "RelativeToolTip": "..\\..\\.gitignore",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-14T17:04:51.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Profesor.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Models\\Profesor.cs",
               "RelativeDocumentMoniker": "reactBackend\\Models\\Profesor.cs",
@@ -62,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProfesorDao.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Repository\\ProfesorDao.cs",
               "RelativeDocumentMoniker": "reactBackend\\Repository\\ProfesorDao.cs",
@@ -74,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProfesorController.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\WebAPI\\Controllers\\ProfesorController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProfesorController.cs",
@@ -86,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PruebaController.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\WebAPI\\Controllers\\PruebaController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\PruebaController.cs",
@@ -98,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AlumnoAsignatura.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Models\\AlumnoAsignatura.cs",
               "RelativeDocumentMoniker": "reactBackend\\Models\\AlumnoAsignatura.cs",
@@ -110,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AlumnoDao.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Repository\\AlumnoDao.cs",
               "RelativeDocumentMoniker": "reactBackend\\Repository\\AlumnoDao.cs",
@@ -123,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RegistroAlumnoContext.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Context\\RegistroAlumnoContext.cs",
               "RelativeDocumentMoniker": "reactBackend\\Context\\RegistroAlumnoContext.cs",
@@ -135,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Class1.cs",
               "RelativeDocumentMoniker": "reactBackend\\Class1.cs",
