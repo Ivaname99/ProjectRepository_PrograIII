@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\notasproyecto\\reactbackend\\repository\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\repository\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\notasproyecto\\reactbackend\\context\\registroalumnocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\context\\registroalumnocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\notasproyecto\\reactbackend\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\notasproyecto\\reactbackend\\models\\alumnoasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\models\\alumnoasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D5123-3E0F-4433-85E9-C1ED3F8F27D5}|WebAPI\\WebAPI.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\notasproyecto\\webapi\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D5123-3E0F-4433-85E9-C1ED3F8F27D5}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D5123-3E0F-4433-85E9-C1ED3F8F27D5}|WebAPI\\WebAPI.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\notasproyecto\\webapi\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D5123-3E0F-4433-85E9-C1ED3F8F27D5}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\notasproyecto\\reactbackend\\repository\\profesordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\repository\\profesordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\notasproyecto\\reactbackend\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE23E91D-BD7A-4315-BAD5-14BDFDD7A169}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Models\\Profesor.cs",
+              "RelativeDocumentMoniker": "reactBackend\\Models\\Profesor.cs",
+              "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Models\\Profesor.cs",
+              "RelativeToolTip": "reactBackend\\Models\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:42:47.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfesorDao.cs",
+              "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Repository\\ProfesorDao.cs",
+              "RelativeDocumentMoniker": "reactBackend\\Repository\\ProfesorDao.cs",
+              "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Repository\\ProfesorDao.cs",
+              "RelativeToolTip": "reactBackend\\Repository\\ProfesorDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:31:32.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfesorController.cs",
+              "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\WebAPI\\Controllers\\ProfesorController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProfesorController.cs",
+              "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\WebAPI\\Controllers\\ProfesorController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProfesorController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:28:52.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PruebaController.cs",
+              "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\WebAPI\\Controllers\\PruebaController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\PruebaController.cs",
+              "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\WebAPI\\Controllers\\PruebaController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\PruebaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:21:14.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlumnoAsignatura.cs",
+              "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Models\\AlumnoAsignatura.cs",
+              "RelativeDocumentMoniker": "reactBackend\\Models\\AlumnoAsignatura.cs",
+              "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Models\\AlumnoAsignatura.cs",
+              "RelativeToolTip": "reactBackend\\Models\\AlumnoAsignatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:44:48.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoDao.cs",
+              "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Repository\\AlumnoDao.cs",
+              "RelativeDocumentMoniker": "reactBackend\\Repository\\AlumnoDao.cs",
+              "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Repository\\AlumnoDao.cs",
+              "RelativeToolTip": "reactBackend\\Repository\\AlumnoDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:31:54.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroAlumnoContext.cs",
+              "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Context\\RegistroAlumnoContext.cs",
+              "RelativeDocumentMoniker": "reactBackend\\Context\\RegistroAlumnoContext.cs",
+              "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Context\\RegistroAlumnoContext.cs",
+              "RelativeToolTip": "reactBackend\\Context\\RegistroAlumnoContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:28:48.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Class1.cs",
+              "RelativeDocumentMoniker": "reactBackend\\Class1.cs",
+              "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\NotasProyecto\\reactBackend\\Class1.cs",
+              "RelativeToolTip": "reactBackend\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAADpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:03:09.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

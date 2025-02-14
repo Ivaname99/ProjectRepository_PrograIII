@@ -1,0 +1,14 @@
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\obj\Debug\net8.0\reactBackend.csproj.AssemblyReference.cache
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\obj\Debug\net8.0\reactBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\obj\Debug\net8.0\reactBackend.AssemblyInfoInputs.cache
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\obj\Debug\net8.0\reactBackend.AssemblyInfo.cs
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\obj\Debug\net8.0\reactBackend.csproj.CoreCompileInputs.cache
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\bin\Debug\net8.0\reactBackend.deps.json
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\bin\Debug\net8.0\reactBackend.runtimeconfig.json
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\bin\Debug\net8.0\reactBackend.dll
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\bin\Debug\net8.0\reactBackend.pdb
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\obj\Debug\net8.0\reactBackend.dll
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\obj\Debug\net8.0\refint\reactBackend.dll
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\obj\Debug\net8.0\reactBackend.pdb
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\obj\Debug\net8.0\reactBackend.genruntimeconfig.cache
+C:\Users\membr\Documents\ProgramacionII\Guias\NotasProyecto\reactBackend\obj\Debug\net8.0\ref\reactBackend.dll
