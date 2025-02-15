@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\dtos\\productinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\dtos\\productinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\dtos\\productupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\dtos\\productupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\dtos\\productinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\dtos\\productinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductUpdate.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\DTOs\\ProductUpdate.cs",
               "RelativeDocumentMoniker": "ApiLab01\\DTOs\\ProductUpdate.cs",
               "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\DTOs\\ProductUpdate.cs",
               "RelativeToolTip": "ApiLab01\\DTOs\\ProductUpdate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T01:07:14.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductInsert.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\DTOs\\ProductInsert.cs",
               "RelativeDocumentMoniker": "ApiLab01\\DTOs\\ProductInsert.cs",
