@@ -1,9 +1,6 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-
-namespace ApiLab01.DTOs
+﻿namespace ApiLab01.DTOs
 {
-    public class ProductDTO
+    public class ProductUpdate
     {
         public int Id { get; set; }
         public string? Nombre { get; set; }
