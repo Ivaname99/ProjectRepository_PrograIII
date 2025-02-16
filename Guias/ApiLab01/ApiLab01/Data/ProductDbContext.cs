@@ -8,7 +8,7 @@ namespace ApiLab01.Data
     {
         public ProductDbContext(DbContextOptions<ProductDbContext> options) : base(options) { }
         
-        public DbSet<Products> Productos { get; set; }
+        public DbSet<Productos> Productos { get; set; }
     }
 }
  

@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ApiLab01.Models
 {
-    public class Products
+    public class Productos
     {
         [Required]
         [Key]
