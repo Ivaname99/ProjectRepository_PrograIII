@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\dtos\\productupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\dtos\\productupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\dtos\\productinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\dtos\\productinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\apilab01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\apilab01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\apilab01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\apilab01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\dtos\\productupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\dtos\\productupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\dtos\\productinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|solutionrelative:apilab01\\dtos\\productinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53A5B070-8A0F-42B0-97AF-7F343AEFFEF9}|ApiLab01\\ApiLab01.csproj|c:\\users\\membr\\documents\\programacion_iii\\guias\\apilab01\\apilab01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +46,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\Program.cs",
+              "RelativeDocumentMoniker": "ApiLab01\\Program.cs",
+              "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\Program.cs",
+              "RelativeToolTip": "ApiLab01\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:53:59.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiLab01\\appsettings.json",
+              "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\appsettings.json",
+              "RelativeToolTip": "ApiLab01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T00:45:02.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ApiLab01\\Data\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "ApiLab01\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T01:36:33.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProductUpdate.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\DTOs\\ProductUpdate.cs",
               "RelativeDocumentMoniker": "ApiLab01\\DTOs\\ProductUpdate.cs",
@@ -51,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ProductInsert.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\DTOs\\ProductInsert.cs",
               "RelativeDocumentMoniker": "ApiLab01\\DTOs\\ProductInsert.cs",
@@ -70,31 +129,27 @@
               "RelativeDocumentMoniker": "ApiLab01\\Models\\Products.cs",
               "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\Models\\Products.cs",
               "RelativeToolTip": "ApiLab01\\Models\\Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T01:00:16.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApiLab01",
+              "DocumentIndex": 2,
+              "Title": "ApiLab01.csproj",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\ApiLab01.csproj",
               "RelativeDocumentMoniker": "ApiLab01\\ApiLab01.csproj",
               "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\ApiLab01.csproj",
               "RelativeToolTip": "ApiLab01\\ApiLab01.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-15T00:59:14.82Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ApiLab01\\Controllers\\ProductController.cs",
@@ -107,13 +162,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "ApiLab01\\DTOs\\ProductDTO.cs",
               "ToolTip": "C:\\Users\\membr\\Documents\\Programacion_III\\Guias\\ApiLab01\\ApiLab01\\DTOs\\ProductDTO.cs",
               "RelativeToolTip": "ApiLab01\\DTOs\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T23:13:23.592Z",
               "EditorCaption": ""
