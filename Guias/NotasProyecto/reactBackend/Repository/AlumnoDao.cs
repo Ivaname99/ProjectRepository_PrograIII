@@ -10,9 +10,8 @@ namespace reactBackend.Repository
 {
     public class AlumnoDao
     {
-        #region Context
+        #region Contex
         public RegistroAlumnoContext contexto = new RegistroAlumnoContext();
-
         #endregion
 
         #region Select All
@@ -23,7 +22,7 @@ namespace reactBackend.Repository
         }
         #endregion
 
-        #region Seleccionamos por ID
+        #region Selecionamos por Id
         public Alumno? GetById(int id)
         {
             var alumno = contexto.Alumnos.Where(x => x.Id == id).FirstOrDefault();
@@ -45,19 +44,19 @@ namespace reactBackend.Repository
                     Nombre = alumno.Nombre,
                 };
                 contexto.Alumnos.Add(alum);
-                contexto.SaveChanges();
 
+                contexto.SaveChanges();
                 return true;
             }
             catch (Exception e)
             {
+                Console.WriteLine(e.InnerException);
                 return false;
             }
         }
         #endregion
 
-        #region Update Alumno
-
+        #region update alumno 
         public bool update(int id, Alumno actualizar)
         {
             try
@@ -78,10 +77,12 @@ namespace reactBackend.Repository
                 contexto.Alumnos.Update(alumnoUpdate);
                 contexto.SaveChanges();
                 return true;
-
             }
-            catch (Exception e) { Console.WriteLine(e.InnerException);
-            return false;}
+            catch (Exception e)
+            {
+                Console.WriteLine(e.InnerException);
+                return false;
+            }
         }
         #endregion
 
@@ -89,7 +90,6 @@ namespace reactBackend.Repository
         public bool deleteAlumno(int id)
         {
             var borrar = GetById(id);
-
             try
             {
                 if (borrar == null)
@@ -102,6 +102,7 @@ namespace reactBackend.Repository
                     contexto.SaveChanges();
                     return true;
                 }
+
             }
             catch (Exception e)
             {
@@ -111,25 +112,34 @@ namespace reactBackend.Repository
         }
         #endregion
 
-        #region Left Join
-        public List<AlumnoAsignatura> SelectAlumAsig()
+        #region LeftJoin
+        public List<AlumnoAsignatura> SelectAlumASig()
         {
+
             var consulta = from a in contexto.Alumnos
                            join m in contexto.Matriculas on a.Id equals m.AlumnoId
-                           join asig in contexto.Asignaturas on m.AsignaturaId 
-                           equals asig.Id
+                           join asig in contexto.Asignaturas on m.AsignaturaId equals asig.Id
                            select new AlumnoAsignatura
                            {
                                nombreAlumno = a.Nombre,
                                nombreAsignatura = asig.Nombre
                            };
-            return consulta.ToList();
-        }
 
+            try
+            {
+                return consulta.ToList();
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine();
+                return null;
+            }
+
+        }
         #endregion
 
-
-        #region AlumnoProfesor
+        #region leftJoinAlumnoMAtriculaMateria
         public List<AlumnoProfesor> alumnoProfesors(string nombreProfesor)
         {
             var listadoALumno = from a in contexto.Alumnos
@@ -150,6 +160,66 @@ namespace reactBackend.Repository
             return listadoALumno.ToList();
         }
         #endregion
+
+        #region SelccionarPorDni
+        public Alumno DNIAlumno(Alumno alumno)
+        {
+            var alumnos = contexto.Alumnos.Where(x => x.Dni == alumno.Dni).FirstOrDefault();
+            return alumnos == null ? null : alumnos;
+        }
+        #endregion
+
+        #region AlumnoMatricula
+        public bool InsertarMatricula(Alumno alumno, int idAsing)
+        {
+            try
+            {
+                var alumnoDNI = DNIAlumno(alumno);
+                if (alumnoDNI == null)
+                {
+                    InsertarAlumno(alumno);
+                    var alumnoInsertado = DNIAlumno(alumno);
+                    var unirAlumnoMatricula = matriculaAsignaturaALumno(alumno, idAsing);
+                    if (unirAlumnoMatricula == false)
+                    {
+                        return false;
+                    }
+                    return true;
+                }
+                else
+                {
+                    matriculaAsignaturaALumno(alumnoDNI, idAsing);
+                    return true;
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                return false;
+            }
+        }
+        #endregion
+
+        #region Matriucla
+        public bool matriculaAsignaturaALumno(Alumno alumno, int idAsignatura)
+        {
+            try
+            {
+                Matricula matricula = new Matricula();
+                matricula.AlumnoId = alumno.Id;
+                matricula.AsignaturaId = idAsignatura;
+                contexto.Matriculas.Add(matricula);
+                contexto.SaveChanges();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                return false;
+            }
+        }
+        #endregion
+
     }
 
 }
