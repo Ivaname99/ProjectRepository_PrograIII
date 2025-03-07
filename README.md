@@ -1,1 +1,2 @@
-Creo que lo subi mal, por lo que se estan implementando los cambios en apiLab, pero ese proyecto no es el del lab, lo deje solo para que revisara los commits, el verdadero apiLab ya se lo envie en moddle
+Ese proyecto llamado ApiLab no es el del lab, lo deje solo para que revisara los commits, ya que aqui lo empeze, el verdadero apiLab ya se lo envie en moddle
+Pero claro, las notas de Proyecto si es el que debe.
